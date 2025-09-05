@@ -17,32 +17,35 @@ It covers Python basics, linear algebra, classification, clustering, regression,
 ---
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
+
+```text
 fmml-assignment/
 ├── Module1/
-│ ├── FMML_Aug22_M1Lab1_PythonBasics.ipynb
-│ ├── FMML_Aug22_M1Lab2_DataFeatures&Augmentation.ipynb
-│ ├── FMML_Aug22_M1Lab3_Terms&Metrics.ipynb
-│ └── FMML_Aug22_M1Lab4_LinearAlgebra.ipynb
+│   ├── FMML_Aug22_M1Lab1_PythonBasics.ipynb
+│   ├── FMML_Aug22_M1Lab2_DataFeatures&Augmentation.ipynb
+│   ├── FMML_Aug22_M1Lab3_Terms&Metrics.ipynb
+│   └── FMML_Aug22_M1Lab4_LinearAlgebra.ipynb
 ├── Classification/
-│ ├── FMML_CLF1_Lab1_2022.ipynb
-│ ├── FMML_CLF1_Lab2_2022.ipynb
-│ ├── FMML_CLF1_Lab3_2022.ipynb
-│ ├── FMML_CLF1_Lab4_2022.ipynb
-│ ├── FMML_ClassificationII_Lab2.ipynb
-│ ├── FMML_ClassificationII_Lab3_GiniImpurity_Generalizability.ipynb
-│ └── FMML_ClassificationII_Lab4_EnsembleMethods.ipynb
+│   ├── FMML_CLF1_Lab1_2022.ipynb
+│   ├── FMML_CLF1_Lab2_2022.ipynb
+│   ├── FMML_CLF1_Lab3_2022.ipynb
+│   ├── FMML_CLF1_Lab4_2022.ipynb
+│   ├── FMML_ClassificationII_Lab2.ipynb
+│   ├── FMML_ClassificationII_Lab3_GiniImpurity_Generalizability.ipynb
+│   └── FMML_ClassificationII_Lab4_EnsembleMethods.ipynb
 ├── Clustering/
-│ ├── Module7_Lab_1_KMeansClustering.ipynb
-│ └── Module7_Lab_3_Matrix_Factorization_and_SVD.ipynb
+│   ├── Module7_Lab_1_KMeansClustering.ipynb
+│   └── Module7_Lab_3_Matrix_Factorization_and_SVD.ipynb
 ├── Regression/
-│ └── Regression_Project_Lab6.ipynb
+│   └── Regression_Project_Lab6.ipynb
 ├── Projects/
-│ ├── FMML_2022_Module_04_Project.ipynb
-│ ├── FMML_Module_9_Project(b).ipynb
-│ ├── Project_FMML_CLF1_2022.ipynb
-│ └── Project_Module2.ipynb
+│   ├── FMML_2022_Module_04_Project.ipynb
+│   ├── FMML_Module_9_Project(b).ipynb
+│   ├── Project_FMML_CLF1_2022.ipynb
+│   └── Project_Module2.ipynb
 ├── Anomaly/
-│ └── Anomaly_Detection_and_KMeans_Application.ipynb
+│   └── Anomaly_Detection_and_KMeans_Application.ipynb
 └── README.md
 
 
